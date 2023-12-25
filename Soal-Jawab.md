@@ -2,6 +2,33 @@
 UAS mata kuliah Pengenalan Informatika kelas B
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+Definisi Computational Thinking:
+Computational thinking adalah  cara berpikir yang sistematis dan logis yang menggunakan konsep-konsep yang mendasari pemrograman komputer untuk memecahkan masalah. Ini bukan hanya tentang menulis kode, ini tentang mengatur dan merancang solusi masalah secara efektif dan efisien.
+
+Elemen-elemen Computational Thinking:
+1. Pemecahan Masalah (Problem Solving):
+Computational Thinking adalah tentang kemampuan untuk memecah masalah besar menjadi masalah lebih kecil yang dapat diselesaikan.
+Ini seperti memecahkan teka-teki menjadi potongan-potongan kecil agar lebih mudah dipecahkan.
+2. Pengorganisasian Data (Data Organization):
+Penting untuk memahami bagaimana data dapat diatur dan diproses untuk mencapai solusi yang diinginkan.
+Ini termasuk memahami struktur data dan bagaimana data  disimpan dan diakses.
+3. Representasi Algoritma (Algorithmic Representation):
+Penting untuk dapat mengungkapkan langkah-langkah penyelesaian suatu masalah secara logis.
+Hal ini sering kali melibatkan pemahaman  algoritma, yang merupakan serangkaian langkah yang diperlukan untuk menyelesaikan suatu tugas.
+4. Abstraksi (Abstraction):
+Kompleksitas dapat disederhanakan dengan mengabaikan detail yang tidak perlu dan hanya berfokus pada informasi penting.  Abstraksi memungkinkan Anda melihat gambaran besarnya tanpa tersesat dalam terlalu banyak detail.
+
+Menginternalisasi Computational Thinking:
+Untuk benar-benar menginternalisasi pemikiran komputasi, Anda perlu mempraktikkannya dalam situasi kehidupan nyata. Ini termasuk memecahkan masalah dunia nyata, mengembangkan algoritma, dan mengimplementasikan kode. Berikut beberapa langkah untuk membantu Anda menginternalisasikan konsep ini.
+1. Latihan Pemecahan Masalah:
+Ambil beberapa masalah kecil dan selesaikan dengan menggunakan pendekatan berpikir komputasi. Identifikasi langkah-langkah yang Anda ambil untuk menyelesaikan setiap masalah.
+2. Proyek Kecil:
+Mulailah dengan proyek kecil yang melibatkan pemrosesan data atau penulisan program sederhana.
+Berlatih organisasi data, representasi algoritmik, dan abstraksi.
+3. Bergabunglah dengan komunitas pemrograman:
+Bergabunglah dengan forum atau komunitas online untuk mendiskusikan masalah pemrograman dan berbagi solusi Anda dengan orang lain. Ini  membantu orang memahami cara lain untuk menggunakan pemikiran komputasi.
+4. Mengikuti Pelatihan dan Workshop:
+Menghadiri kursus pelatihan dan lokakarya yang berfokus pada pengembangan pemikiran komputasi. Ini akan memberi Anda pengalaman praktis dan bimbingan dari para ahli.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
