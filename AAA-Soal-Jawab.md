@@ -171,8 +171,27 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+Saya menonton sidang skripsi mahasiswi teknik informatika Universitas Bhayangkara Jakarta Raya dengan judul skripsi "Perancangan Sistem Informasi Pengelolaan Kas Masjid Berbasis Web Dengan Algoritma Naive Bayes dan Metode Extreme Programming (Xp) Di Masjid Baitul Mukhlishin Kabupaten Bekasi" yang saya akses melalui YouTube.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="SidangSkripsi.png" alt="intro">
+</body>
+
+</html>
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+Saya telah mengeksplorasi profesi di dunia Informatika melalui web Quora :
+https://qr.ae/pKJTOC
+
+Dan menurut saya, profesi yang mungkin sesuai dengan diri saya adalah UX/UI Designer. Karena saya tertarik ke dunia visual.
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
@@ -195,20 +214,28 @@ Saya telah mencoba aktivasi tools HelloTalk di HP saya. Di aplikasi tersebut kit
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+Saya telah mengeksplorasi web tersebut dan menurut saya topik design system merupakan topik yang sangat menarik. Dan saya memang menyukai hal-hal yang ber aspek designing.
+
+https://roadmap.sh/design-system
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+Saya telah mengeksplorasi Top Github Project. Dan saya merasa top 1 daftar tersebut yaitu freeCodeCamp memiliki alasan yang kuat sehingga berada pada peringkat 1. Bagaimana tujuan dan manfaat dari freeCodeCamp itu sendiri yang sangat bermanfaat bagi banyak orang. seperti yang saya baca bahwasanya freeCodeCamp menyediakan akses terbuka ke materi-materi pembelajaran dan proyek-proyek praktis yang dapat membantu orang membangun keterampilan mereka di bidang pemrograman dan pengembangan perangkat lunak.
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+Saya telah membangun profile Linkedin saya dan mengikuti beberapa akun inspiratif
+www.linkedin.com/in/hafanza
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 Saya telah melakukan perintah untuk membangun profle github yang mana saya gunakan sekarang untuk menjawab pertanyaan UAS mata kuliah Pengenalan Informatika ini.
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Saya tergabung dalam komunitas Google Developer Student Clubs (GDSC) UIN SGD Bandung sebagai anggota. Walaupun belakangan ini saya belum secara mengikuti acaran-acara yang diselenggarakan GDSC. Namun, kedepannya saya akan selalu berusaha mengikuti kegiatannya secara aktif.
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
-
+Saya telah menemukan e-book yang sesuai yang saya akses melalui https://www.academia.edu/39170410/Buku_Ajar_Komputer_Cerdas_untuk_Mahasiswa_Teknik_Informatika
+Namun, saya belum membacanya. Saya akan membacanya dan mengambil inspirasi dari buku tersebut
 
