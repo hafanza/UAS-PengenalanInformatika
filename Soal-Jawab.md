@@ -1,5 +1,5 @@
-# UAS-PengenalanInformatika
-UAS mata kuliah Pengenalan Informatika kelas B
+# UAS-Pengenalan-Informatika
+UAS mata kuliah Pengenalan Informatika
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Definisi Computational Thinking:
@@ -31,22 +31,79 @@ Bergabunglah dengan forum atau komunitas online untuk mendiskusikan masalah pemr
 Menghadiri kursus pelatihan dan lokakarya yang berfokus pada pengembangan pemikiran komputasi. Ini akan memberi Anda pengalaman praktis dan bimbingan dari para ahli.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Mesin komputasi adalah perangkat yang digunakan untuk melakukan komputasi atau pengolahan data. Beberapa jenis mesin komputasi yang umum digunakan:
+
+1. Personal Computer (PC): Merupakan mesin komputasi yang paling umum digunakan. PC terdiri dari beberapa komponen seperti CPU, monitor, keyboard, dan mouse.
+
+2. Laptop: Merupakan mesin komputasi yang portabel dan mudah dibawa-bawa. Laptop memiliki komponen yang sama dengan PC, namun dalam ukuran yang lebih kecil.
+
+3. Server: Merupakan mesin komputasi yang digunakan untuk menyimpan dan mengelola data dalam skala besar. Server dapat digunakan untuk menyimpan data perusahaan, website, atau aplikasi.
+
+4. Mainframe: Merupakan mesin komputasi yang digunakan untuk mengelola data dalam skala besar. Mainframe biasanya digunakan oleh perusahaan besar atau pemerintah.
+
+5. Superkomputer: Merupakan mesin komputasi yang digunakan untuk melakukan komputasi dalam skala besar dan kompleks. Superkomputer biasanya digunakan untuk riset ilmiah, simulasi cuaca, atau pengembangan senjata.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 Saya telah mengaktifkan dan mencoba Google Colab. Saya mencobanya ketika praktek menggunakan Text to Speech yang dijelaskan ketika berada didalam kelas.
-![Google Collab](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/f2955b1f-f341-446c-aea0-a0969b74d2a7)
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="Google Colab.png" alt="intro">
+</body>
+
+</html>
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+Beberapa perintah dasar yang sering digunakan di Command Prompt (CMD) pada sistem operasi Windows:
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+| Perintah         | Fungsi                                                   |
+|------------------|----------------------------------------------------------|
+| `dir`            | Menampilkan daftar file dan folder dalam direktori.       |
+| `cd`             | Berpindah ke direktori tertentu.                          |
+| `mkdir`          | Membuat direktori baru.                                   |
+| `copy`           | Menyalin file dari satu lokasi ke lokasi lain.            |
+| `del` atau `erase` | Menghapus file.                                          |
+| `ren`            | Mengganti nama file atau folder.                         |
+| `move`           | Memindahkan file atau folder.                             |
+| `echo`           | Menampilkan teks di layar atau menyimpan teks dalam file. |
+| `type`           | Menampilkan isi file teks.                                |
+| `ipconfig`       | Menampilkan informasi konfigurasi IP.                     |
+| `ping`           | Mengukur koneksi jaringan ke alamat IP tertentu.          |
+| `systeminfo`     | Menampilkan informasi konfigurasi sistem dan perangkat keras. |
+| `tasklist`       | Menampilkan daftar tugas (proses) yang berjalan.          |
+| `shutdown`       | Mematikan atau me-restart komputer.                      |
+| `help`           | Menampilkan daftar perintah dan petunjuk bantuan.         |
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+Saya telah mengakses Google Colab untuk menjalankan Linux Terminal
+https://colab.research.google.com/drive/1myb5s1m22-rg3lh_7BjzyqwZ6-gAp59a?usp=sharing
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 Saya telah membuat sebuah algoritma berupa flow chart untuk Pemesanan Makanan Online menggunakan https://online.visual-paradigm.com/id/diagrams/features/flowchart-tool/
-![Algorithm in Flow Chart](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/5ef92fd4-58f0-4480-b52d-c40392e82e76)
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="Algorithm in Flow Chart.jpg" alt="intro">
+</body>
+
+</html>
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
@@ -146,7 +203,20 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 Saya menonton sidang skripsi mahasiswi teknik informatika Universitas Bhayangkara Jakarta Raya dengan judul skripsi "Perancangan Sistem Informasi Pengelolaan Kas Masjid Berbasis Web Dengan Algoritma Naive Bayes dan Metode Extreme Programming (Xp) Di Masjid Baitul Mukhlishin Kabupaten Bekasi" yang saya akses melalui YouTube.
-![SidangSkripsi](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/36606dc1-4f84-43f3-b154-6006fa3dab90)
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="SidangSkripsi.png" alt="intro">
+</body>
+
+</html>
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Saya telah mengeksplorasi profesi di dunia Informatika melalui web Quora :
@@ -158,7 +228,20 @@ Dan menurut saya, profesi yang mungkin sesuai dengan diri saya adalah UX/UI Desi
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 Saya telah mencoba aktivasi tools HelloTalk di HP saya. Di aplikasi tersebut kita bisa chat ke orang lain yang mau bantu kita belajar bahasa yang diinginkan (saya memilih bahasa Inggris). Bisa kirim pesan teks, suara, gambar, terus mereka juga membantu menkoreksi kalau ada kesalahan. Ada fitur grup juga untuk berdiskusi.
-![HelloTalk](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/414af3e2-6806-4842-b587-aac0673f222b)
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="HelloTalk.jpg" alt="intro">
+</body>
+
+</html>
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
@@ -178,7 +261,7 @@ Saya telah membangun profile Linkedin saya dan mengikuti beberapa akun inspirati
 www.linkedin.com/in/hafanza
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-![Screenshot (316)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/bac105db-5920-4ca7-99de-77530625223e)
+Saya telah melakukan perintah untuk membangun profle github yang mana saya gunakan sekarang untuk menjawab pertanyaan UAS mata kuliah Pengenalan Informatika ini.
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya tergabung dalam komunitas Google Developer Student Clubs (GDSC) UIN SGD Bandung sebagai anggota. Walaupun belakangan ini saya belum secara mengikuti acaran-acara yang diselenggarakan GDSC. Namun, kedepannya saya akan selalu berusaha mengikuti kegiatannya secara aktif.
