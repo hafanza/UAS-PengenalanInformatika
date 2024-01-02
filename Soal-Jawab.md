@@ -163,10 +163,9 @@ WordPress
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 Saya menggunakan Notepad dan disave dalam format .json
-
-
 ![Screenshot (322)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/48409b56-09b3-48aa-b066-05311fc261d0)
 
+Untuk hasil filenya telah saya upload di repository ini
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
