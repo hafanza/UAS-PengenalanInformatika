@@ -161,6 +161,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+Saya telah melakukan perintah untuk membangun profle github yang mana saya gunakan sekarang untuk menjawab pertanyaan UAS mata kuliah Pengenalan Informatika ini.
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
