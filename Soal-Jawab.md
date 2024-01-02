@@ -34,6 +34,20 @@ Menghadiri kursus pelatihan dan lokakarya yang berfokus pada pengembangan pemiki
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 Saya telah mengaktifkan dan mencoba Google Colab. Saya mencobanya ketika praktek menggunakan Text to Speech yang dijelaskan ketika berada didalam kelas.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="Google Colab.png" alt="intro">
+</body>
+
+</html>
 
 ## Mencoba Console Sistem Operasi
 
@@ -44,8 +58,21 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+Saya telah membuat sebuah algoritma berupa flow chart untuk Pemesanan Makanan Online menggunakan https://online.visual-paradigm.com/id/diagrams/features/flowchart-tool/
+<!DOCTYPE html>
+<html lang="en">
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="Algorithm in Flow Chart.jpg" alt="intro">
+</body>
+
+</html>
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
@@ -150,6 +177,21 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+Saya telah mencoba aktivasi tools HelloTalk di HP saya. Di aplikasi tersebut kita bisa chat ke orang lain yang mau bantu kita belajar bahasa yang diinginkan (saya memilih bahasa Inggris). Bisa kirim pesan teks, suara, gambar, terus mereka juga membantu menkoreksi kalau ada kesalahan. Ada fitur grup juga untuk berdiskusi.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <img src="HelloTalk.jpg" alt="intro">
+</body>
+
+</html>
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
