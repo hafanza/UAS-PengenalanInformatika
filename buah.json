@@ -1,0 +1,24 @@
+{
+  "buah": [
+    {
+      "nama": "Apel",
+      "warna": "Merah",
+      "rasa": "Manis",
+      "harga": 6000
+    },
+    {
+      "nama": "Jeruk",
+      "warna": "Oranye",
+      "rasa": "Asam",
+      "harga": 9000
+    },
+    {
+      "nama": "Pisang",
+      "warna": "Kuning",
+      "rasa": "Manis",
+      "harga": 4000
+    }
+  ],
+  "lokasi_penanaman": "Pasar Buah Bandung",
+  "tanggal_pemanenan": "2024-01-01"
+}
