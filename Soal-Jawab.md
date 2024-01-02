@@ -105,13 +105,45 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+Web browser adalah perangkat lunak yang memungkinkan kita untuk mengakses dan menampilkan dokumen HTML (Hypertext Markup Language) dengan mudah. Dokumen HTML ini berfungsi sebagai dasar untuk pertukaran informasi berbasis Hypertext di internet. Berikut adalah gambaran sederhana cara kerja web browser dalam mengakses halaman website HTML:
+
+1. **Peluncuran Web Browser:**
+   - Pertama, kita membuka web browser seperti Firefox, Chrome, atau Opera di perangkat kita.
+2. **Input URL:**
+   - Setelah browser terbuka, kita memasukkan URL (Uniform Resource Locator) atau alamat website ke bilah alamat. Contoh, https://www.tokopedia.com/.
+3. **Permintaan ke Server:**
+   - Setelah memasukkan URL, web browser mengirimkan permintaan ke server yang menyimpan halaman HTML yang sesuai dengan URL tersebut.
+4. **Menerima Dokumen HTML:**
+   - Server merespons dengan mengirimkan dokumen HTML yang diminta kembali ke web browser.
+5. **Rendering Dokumen HTML:**
+   - Web browser menerima dokumen HTML dan melakukan proses rendering, yaitu mengonversi kode HTML menjadi tata letak dan elemen visual yang dapat kita lihat.
+6. **Menampilkan Halaman Web:**
+   - Setelah proses rendering selesai, web browser menampilkan halaman web yang telah dibuat dari dokumen HTML. Ini mencakup teks, gambar, tautan, dan elemen-elemen lainnya yang terdapat dalam halaman web.
+7. **Interaksi dengan Halaman:**
+   - Pengguna dapat berinteraksi dengan halaman web, mengklik tautan, mengisi formulir, atau menjelajahi halaman lainnya.
+
+Dengan demikian, penggunaan web browser untuk mengakses halaman website HTML melibatkan proses permintaan dan pengiriman dokumen HTML dari server ke browser, diikuti oleh proses rendering untuk menampilkan konten secara visual kepada pengguna.
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+URL (Uniform Resource Locator) adalah alamat web yang digunakan untuk mengidentifikasi dan menemukan sumber daya di internet. Sebagai contoh dari URL https://ickendari.sch.id/:
+
+1. **Protokol (Protocol):** `https://`
+   - Ini menunjukkan protokol yang digunakan untuk mengakses sumber daya, dalam hal ini, HTTPS (Hypertext Transfer Protocol Secure). Protokol ini memberikan lapisan keamanan tambahan melalui enkripsi.
+
+2. **Nama Domain (Domain Name):** `ickendari.sch.id`
+   - Nama domain adalah alamat yang digunakan untuk mengidentifikasi server di internet. Pada contoh ini, "ickendari.sch.id" adalah nama domain yang menunjukkan situs web Sekolah Tinggi Ilmu Kesehatan (STIK) Kendarian di Indonesia.
+
+3. **Jalan (Path):** `/`
+   - Ini adalah bagian yang menunjukkan jalur atau direktori spesifik ke sumber daya yang diinginkan di dalam server. Pada contoh ini, tanda garis miring tunggal (/) menunjukkan bahwa kita mengakses halaman utama atau root dari situs web.
+
+4. **Parameter:** (Tidak ada pada contoh ini)
+   - Parameter adalah informasi tambahan yang dapat diteruskan kepada server melalui URL. Mereka dimulai setelah tanda tanya (?), tetapi pada contoh ini, tidak ada parameter.
+
+5. **Fragment:** (Tidak ada pada contoh ini)
+   - Fragment merujuk pada bagian spesifik di dalam sumber daya yang diidentifikasi oleh server. Mereka dimulai setelah tanda pagar (#), tetapi pada contoh ini, tidak ada fragment.
+
+Jadi, URL https://ickendari.sch.id/ dapat diuraikan menjadi protokol (HTTPS), nama domain (ickendari.sch.id), dan path (halaman utama). Ini memberikan petunjuk kepada browser untuk mengakses dan menampilkan halaman utama dari situs web Sekolah Tinggi Ilmu Kesehatan Kendarian.
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
@@ -125,10 +157,15 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+WordPress
+![Screenshot (321)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/7944f416-a48f-4db4-96c5-04adec94c398)
 
-Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+Saya menggunakan Notepad dan disave dalam format .json
+
+
+![Screenshot (322)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/48409b56-09b3-48aa-b066-05311fc261d0)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -149,6 +186,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+Adobe Illustrator
+![Screenshot (71)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/84e388cf-7ea4-4bc9-961e-47f622cf6133)
+
+![Screenshot (74)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/b2a39e1d-d9b1-4c03-ade7-533e0611a67b)
+
+CapCut
+![Screenshot (129)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/9ec691c2-1a3c-438c-a656-2015a575a3cd)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -193,6 +237,7 @@ Dan menurut saya, profesi yang mungkin sesuai dengan diri saya adalah UX/UI Desi
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 Saya telah mencoba aktivasi tools HelloTalk di HP saya. Di aplikasi tersebut kita bisa chat ke orang lain yang mau bantu kita belajar bahasa yang diinginkan (saya memilih bahasa Inggris). Bisa kirim pesan teks, suara, gambar, terus mereka juga membantu menkoreksi kalau ada kesalahan. Ada fitur grup juga untuk berdiskusi.
+
 ![HelloTalk](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/414af3e2-6806-4842-b587-aac0673f222b)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
