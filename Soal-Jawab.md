@@ -45,20 +45,9 @@ Mesin komputasi adalah perangkat yang digunakan untuk melakukan komputasi atau p
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 Saya telah mengaktifkan dan mencoba Google Colab. Saya mencobanya ketika praktek menggunakan Text to Speech yang dijelaskan ketika berada didalam kelas.
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-</head>
+![Google Collab](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/c5738fd7-6cb5-4a73-8416-4ce52d66ffca)
 
-<body>
-    <img src="Google Colab.png" alt="intro">
-</body>
-
-</html>
 
 ## Mencoba Console Sistem Operasi
 
@@ -90,20 +79,8 @@ https://colab.research.google.com/drive/1myb5s1m22-rg3lh_7BjzyqwZ6-gAp59a?usp=sh
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 Saya telah membuat sebuah algoritma berupa flow chart untuk Pemesanan Makanan Online menggunakan https://online.visual-paradigm.com/id/diagrams/features/flowchart-tool/
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-</head>
-
-<body>
-    <img src="Algorithm in Flow Chart.jpg" alt="intro">
-</body>
-
-</html>
+![Algorithm in Flow Chart](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/5ef92fd4-58f0-4480-b52d-c40392e82e76)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
@@ -203,20 +180,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 Saya menonton sidang skripsi mahasiswi teknik informatika Universitas Bhayangkara Jakarta Raya dengan judul skripsi "Perancangan Sistem Informasi Pengelolaan Kas Masjid Berbasis Web Dengan Algoritma Naive Bayes dan Metode Extreme Programming (Xp) Di Masjid Baitul Mukhlishin Kabupaten Bekasi" yang saya akses melalui YouTube.
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-</head>
-
-<body>
-    <img src="SidangSkripsi.png" alt="intro">
-</body>
-
-</html>
+![SidangSkripsi](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/36606dc1-4f84-43f3-b154-6006fa3dab90)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Saya telah mengeksplorasi profesi di dunia Informatika melalui web Quora :
@@ -225,28 +189,19 @@ https://qr.ae/pKJTOC
 Dan menurut saya, profesi yang mungkin sesuai dengan diri saya adalah UX/UI Designer. Karena saya tertarik ke dunia visual.
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![Screenshot (320)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/3846c7df-25ad-4e8d-b9e5-32c79a175bd6)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 Saya telah mencoba aktivasi tools HelloTalk di HP saya. Di aplikasi tersebut kita bisa chat ke orang lain yang mau bantu kita belajar bahasa yang diinginkan (saya memilih bahasa Inggris). Bisa kirim pesan teks, suara, gambar, terus mereka juga membantu menkoreksi kalau ada kesalahan. Ada fitur grup juga untuk berdiskusi.
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-</head>
-
-<body>
-    <img src="HelloTalk.jpg" alt="intro">
-</body>
-
-</html>
+![HelloTalk](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/414af3e2-6806-4842-b587-aac0673f222b)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+Saya mengeksplorasi satu web yaitu https://www.jobstreet.co.id/id/it-jobs?jobId=72661586&type=standout dan melihat permintaan terkait pekerjaan di dunia IT
+![Screenshot (319)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/7e25c8d0-d2fd-4efa-bd4a-b5fadd405b28)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+Saya telah mendaftarkan diri di web Upwork
+![Screenshot (318)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/62fd734a-a7f1-455e-9d9f-da80386e96dc)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 Saya telah mengeksplorasi web tersebut dan menurut saya topik design system merupakan topik yang sangat menarik. Dan saya memang menyukai hal-hal yang ber aspek designing.
@@ -260,8 +215,11 @@ Saya telah mengeksplorasi Top Github Project. Dan saya merasa top 1 daftar terse
 Saya telah membangun profile Linkedin saya dan mengikuti beberapa akun inspiratif
 www.linkedin.com/in/hafanza
 
+![Screenshot (317)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/e9b70347-cdf9-4f60-be4f-8033d2181aa1)
+
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-Saya telah melakukan perintah untuk membangun profle github yang mana saya gunakan sekarang untuk menjawab pertanyaan UAS mata kuliah Pengenalan Informatika ini.
+![Screenshot (316)](https://github.com/hafanza/UAS-PengenalanInformatika/assets/144743243/bac105db-5920-4ca7-99de-77530625223e)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya tergabung dalam komunitas Google Developer Student Clubs (GDSC) UIN SGD Bandung sebagai anggota. Walaupun belakangan ini saya belum secara mengikuti acaran-acara yang diselenggarakan GDSC. Namun, kedepannya saya akan selalu berusaha mengikuti kegiatannya secara aktif.
