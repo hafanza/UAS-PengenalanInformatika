@@ -33,6 +33,7 @@ Menghadiri kursus pelatihan dan lokakarya yang berfokus pada pengembangan pemiki
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+Saya telah mengaktifkan dan mencoba Google Colab. Saya mencobanya ketika praktek menggunakan Text to Speech yang dijelaskan ketika berada didalam kelas.
 
 ## Mencoba Console Sistem Operasi
 
